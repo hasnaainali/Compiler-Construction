@@ -1,0 +1,17 @@
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\bin\Debug\net8.0-windows\LabTask2.exe
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\bin\Debug\net8.0-windows\LabTask2.deps.json
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\bin\Debug\net8.0-windows\LabTask2.runtimeconfig.json
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\bin\Debug\net8.0-windows\LabTask2.dll
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\bin\Debug\net8.0-windows\LabTask2.pdb
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\LabTask2.Form1.resources
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\LabTask2.csproj.GenerateResource.cache
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\LabTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\LabTask2.AssemblyInfoInputs.cache
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\LabTask2.AssemblyInfo.cs
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\LabTask2.csproj.CoreCompileInputs.cache
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\LabTask2.sourcelink.json
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\LabTask2.dll
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\refint\LabTask2.dll
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\LabTask2.pdb
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\LabTask2.genruntimeconfig.cache
+C:\Users\Hasnian\source\repos\CompilerConstruction\LabActivites_3\LabTask2\LabTask2\obj\Debug\net8.0-windows\ref\LabTask2.dll
