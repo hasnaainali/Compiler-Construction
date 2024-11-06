@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hasnian\\source\\repos\\CompilerConstruction\\LabActivites_7\\Activity1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A3D282-DC81-4A5B-919F-59EDC2C7E2E4}|Activity1\\Activity1.csproj|c:\\users\\hasnian\\source\\repos\\compilerconstruction\\labactivites_7\\activity1\\activity1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A3D282-DC81-4A5B-919F-59EDC2C7E2E4}|Activity1\\Activity1.csproj|solutionrelative:activity1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A3D282-DC81-4A5B-919F-59EDC2C7E2E4}|Activity1\\Activity1.csproj|c:\\users\\hasnian\\source\\repos\\compilerconstruction\\labactivites_7\\activity1\\activity1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A3D282-DC81-4A5B-919F-59EDC2C7E2E4}|Activity1\\Activity1.csproj|solutionrelative:activity1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A3D282-DC81-4A5B-919F-59EDC2C7E2E4}|Activity1\\Activity1.csproj|c:\\users\\hasnian\\source\\repos\\compilerconstruction\\labactivites_7\\activity1\\activity1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A3D282-DC81-4A5B-919F-59EDC2C7E2E4}|Activity1\\Activity1.csproj|solutionrelative:activity1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A3D282-DC81-4A5B-919F-59EDC2C7E2E4}|Activity1\\Activity1.csproj|c:\\users\\hasnian\\source\\repos\\compilerconstruction\\labactivites_7\\activity1\\activity1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0A3D282-DC81-4A5B-919F-59EDC2C7E2E4}|Activity1\\Activity1.csproj|solutionrelative:activity1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hasnian\\source\\repos\\CompilerConstruction\\LabActivites_7\\Activity1\\Activity1\\Program.cs",
+              "RelativeDocumentMoniker": "Activity1\\Program.cs",
+              "ToolTip": "C:\\Users\\Hasnian\\source\\repos\\CompilerConstruction\\LabActivites_7\\Activity1\\Activity1\\Program.cs",
+              "RelativeToolTip": "Activity1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:51:42.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hasnian\\source\\repos\\CompilerConstruction\\LabActivites_7\\Activity1\\Activity1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Activity1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Hasnian\\source\\repos\\CompilerConstruction\\LabActivites_7\\Activity1\\Activity1\\Form1.Designer.cs",
+              "RelativeToolTip": "Activity1\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:51:40.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hasnian\\source\\repos\\CompilerConstruction\\LabActivites_7\\Activity1\\Activity1\\Form1.cs",
+              "RelativeDocumentMoniker": "Activity1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hasnian\\source\\repos\\CompilerConstruction\\LabActivites_7\\Activity1\\Activity1\\Form1.cs",
+              "RelativeToolTip": "Activity1\\Form1.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAwwKQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:51:38.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hasnian\\source\\repos\\CompilerConstruction\\LabActivites_7\\Activity1\\Activity1\\Form1.cs",
+              "RelativeDocumentMoniker": "Activity1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hasnian\\source\\repos\\CompilerConstruction\\LabActivites_7\\Activity1\\Activity1\\Form1.cs [Design]",
+              "RelativeToolTip": "Activity1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:51:28.012Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
