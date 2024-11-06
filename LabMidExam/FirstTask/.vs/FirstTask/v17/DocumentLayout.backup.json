@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hasnain\\University\\Semester # 7\\Compiler Construction\\Lab-Mid\\FirstTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2515B3-9267-4F35-90A8-8E32F7CAEDD4}|FirstTask\\FirstTask.csproj|d:\\hasnain\\university\\semester # 7\\compiler construction\\lab-mid\\firsttask\\firsttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2515B3-9267-4F35-90A8-8E32F7CAEDD4}|FirstTask\\FirstTask.csproj|solutionrelative:firsttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2515B3-9267-4F35-90A8-8E32F7CAEDD4}|FirstTask\\FirstTask.csproj|d:\\hasnain\\university\\semester # 7\\compiler construction\\lab-mid\\firsttask\\firsttask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2515B3-9267-4F35-90A8-8E32F7CAEDD4}|FirstTask\\FirstTask.csproj|solutionrelative:firsttask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2515B3-9267-4F35-90A8-8E32F7CAEDD4}|FirstTask\\FirstTask.csproj|d:\\hasnain\\university\\semester # 7\\compiler construction\\lab-mid\\firsttask\\firsttask\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2515B3-9267-4F35-90A8-8E32F7CAEDD4}|FirstTask\\FirstTask.csproj|solutionrelative:firsttask\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2515B3-9267-4F35-90A8-8E32F7CAEDD4}|FirstTask\\FirstTask.csproj|d:\\hasnain\\university\\semester # 7\\compiler construction\\lab-mid\\firsttask\\firsttask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD2515B3-9267-4F35-90A8-8E32F7CAEDD4}|FirstTask\\FirstTask.csproj|solutionrelative:firsttask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hasnain\\University\\Semester # 7\\Compiler Construction\\Lab-Mid\\FirstTask\\FirstTask\\Program.cs",
+              "RelativeDocumentMoniker": "FirstTask\\Program.cs",
+              "ToolTip": "D:\\Hasnain\\University\\Semester # 7\\Compiler Construction\\Lab-Mid\\FirstTask\\FirstTask\\Program.cs",
+              "RelativeToolTip": "FirstTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:07:19.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Hasnain\\University\\Semester # 7\\Compiler Construction\\Lab-Mid\\FirstTask\\FirstTask\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FirstTask\\Form1.Designer.cs",
+              "ToolTip": "D:\\Hasnain\\University\\Semester # 7\\Compiler Construction\\Lab-Mid\\FirstTask\\FirstTask\\Form1.Designer.cs",
+              "RelativeToolTip": "FirstTask\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:58:39.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Hasnain\\University\\Semester # 7\\Compiler Construction\\Lab-Mid\\FirstTask\\FirstTask\\Form1.cs",
+              "RelativeDocumentMoniker": "FirstTask\\Form1.cs",
+              "ToolTip": "D:\\Hasnain\\University\\Semester # 7\\Compiler Construction\\Lab-Mid\\FirstTask\\FirstTask\\Form1.cs",
+              "RelativeToolTip": "FirstTask\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:58:22.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Hasnain\\University\\Semester # 7\\Compiler Construction\\Lab-Mid\\FirstTask\\FirstTask\\Form1.cs",
+              "RelativeDocumentMoniker": "FirstTask\\Form1.cs",
+              "ToolTip": "D:\\Hasnain\\University\\Semester # 7\\Compiler Construction\\Lab-Mid\\FirstTask\\FirstTask\\Form1.cs [Design]",
+              "RelativeToolTip": "FirstTask\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:57:36.388Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
